@@ -1,0 +1,13 @@
+{
+    "name": "anderson/bio_key",
+    "require": {
+        "twig/twig": "^2.3",
+        "illuminate/database": "*"
+    },
+    "authors": [
+        {
+            "name": "Anderson Marin de Ramos",
+            "email": "dam.marinramos@gmail.com"
+        }
+    ]
+}
