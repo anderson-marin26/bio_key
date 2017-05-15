@@ -1,0 +1,38 @@
+.center {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.flowers {
+	border: 2px solid #BEBEBE;
+	border-radius: 5px;
+	width: 60%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	padding-top: 1%; 
+	padding-bottom: 1%;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+.flowers:hover {
+	transition: border-color 0.9s ease;
+	border-color: #00FF00;
+}
+
+.step {
+	width: 40%;
+	cursor: pointer;
+}
+
+#steps {
+	display: none;
+}
+
+#family {
+	display: none;
+}
